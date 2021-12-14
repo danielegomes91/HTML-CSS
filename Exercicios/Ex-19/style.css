@@ -1,0 +1,24 @@
+@charset "UTf-8";
+
+body{background-color: rgb(47, 92, 77);}
+
+h1{ color: brown;}
+
+#principal{ background: darkorange;}
+
+h2{
+    color: darkblue;
+}
+
+.basico{
+    color: blueviolet;
+}
+
+.intermediario{
+    color: cyan;
+}
+
+.destaque{
+    background: rgba(255, 230, 0, 0.411);
+}
+
